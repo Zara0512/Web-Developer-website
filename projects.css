@@ -1,0 +1,112 @@
+*{
+    background-color: #040f36;
+    color: white;
+    margin:0%;
+    padding:0%;
+}
+
+
+header{
+    margin:0%;
+    padding-top:2%;
+     padding-bottom:5%;
+      padding-left:7%;
+       padding-right:7%;
+    background-color: #040f36;
+}
+
+nav .nav-item{
+    padding:5%;
+}
+nav .nav-link{
+    color:white;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav .nav-link:hover{
+    color:dodgerblue;
+}
+
+ .btn{ 
+    margin-top: 12%;
+    border-radius: 50px;
+    border-color: rgb(25, 52, 148);;
+    background-color: dodgerblue;
+    color:white;
+    padding:5%;
+}
+.btn:hover{
+    transform: scale(110%);
+    background-color: dodgerblue;
+    
+}
+
+main{
+    padding-left:15%;
+    padding-right:5%;
+     text-align: left;
+    color:white;
+}
+
+main a{
+    padding-left:5%;
+padding-right:5%;
+}
+
+main h4{
+    padding-left:5%;
+padding-right:5%;
+}
+img{
+   padding-left:5%;
+padding-right:5%; 
+}
+
+section p{
+    text-align: left;
+padding-left:5%;
+padding-right:5%;
+}
+
+section .col-md-6{
+    padding:3%;
+}
+
+span{
+    color:dodgerblue;
+    margin-bottom:10%;
+
+}
+
+
+
+footer{
+    background-color: dodgerblue;
+    color:white;
+    margin:0%;
+    padding: 4%;
+}
+
+footer .container{
+     background-color: dodgerblue;
+    color:white;
+    margin:0%;
+    padding: 0%;
+}
+
+footer .col-md-4{
+    background-color: dodgerblue;
+}
+
+footer svg{
+    display:inline;
+    background-color: dodgerblue;
+    justify-content: center;
+    height: 80px;
+    width:80px;
+    padding:5%;
+}
+
+footer h6{
+    background-color: dodgerblue;
+}
